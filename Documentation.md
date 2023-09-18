@@ -1,3 +1,5 @@
+These instructions follow https://github.com/mHienp/GCBM.EmeraldEdge.Data/wiki/Documentation
+
 # Documentation on How to Run A GCBM Model
 
 ## Step 1: Determine Administrative and Forest Boundaries
